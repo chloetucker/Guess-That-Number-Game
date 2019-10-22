@@ -2,7 +2,8 @@
 ## Summary
 > This game invites the user on a quest. It's a small homage to fantasy literature, including Lord of the Rings, wrapped around a simple number guessing game.
 ### Outcome
-[![PROJECT SUMMARY](https://raw.githubusercontent.com/chloetucker/Hello-World/master/Project%20Screenshot.png)]()
+[![Project Screenshot 1](https://raw.githubusercontent.com/chloetucker/Guess-That-Number-Game/master/Project%20Screenshot%201.png]()
+[![Project Screenshot 2](https://raw.githubusercontent.com/chloetucker/Guess-That-Number-Game/master/Project%20Screenshot%202.png]()
 
 ## Things I Needed
 - Python 3
