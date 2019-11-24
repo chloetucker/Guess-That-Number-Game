@@ -19,8 +19,9 @@
 ## Resources
 This game was based on a Guess That Number game listed as App 2 in the following course: <a href="https://github.com/mikeckennedy/python-jumpstart-course-demos" target="_blank">**Talk Python to Me - Building 10 Apps Course**</a>
 
-## Ideas to Expand
+## Ideas to Improve
 - Expand the narrative to have the computer be Gandalf, and a battle scenario to occur when Sauron, Saruman, or Gollum user names are entered.
+- Add PEP8 style conventions
 
 ## Reach Out
 - <a href="https://chloe.dev/" target="_blank">`Website - chloe.dev`</a>
