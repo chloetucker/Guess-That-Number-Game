@@ -10,11 +10,9 @@
 - Pycharm
 - Github account
 
-## Concepts Used
-- while and for loops
-- nested conditionals
-- list
-- line breaks
+## Reflection
+- I learned that the more I can integrate my interests into side projects, the more engrossing they will be
+- I learned that even as a beginner, I can have fun with simple concepts
 
 ## Resources
 This game was based on a Guess That Number game listed as App 2 in the following course: <a href="https://github.com/mikeckennedy/python-jumpstart-course-demos" target="_blank">**Talk Python to Me - Building 10 Apps Course**</a>
